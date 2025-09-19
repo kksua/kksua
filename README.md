@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Supipi!
 
-Thanks for stopping by! I'm a Master's student in Digital Service Engineering at ESIGELEC, France. I'm in my final year and always excited to explore new things and grow as a developer.
+Thanks for stopping by! I'm a final-year engineering student in Digital Service Engineering at ESIGELEC, France. I'm always excited to explore new things and grow as a developer.
 
 ## ✨ Sneak Peak about me
  👩‍💻 I love building creative and useful things with code </br>
